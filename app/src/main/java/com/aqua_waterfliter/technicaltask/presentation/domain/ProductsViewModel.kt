@@ -1,4 +1,4 @@
-package com.aqua_waterfliter.technicaltask.presentation
+package com.aqua_waterfliter.technicaltask.presentation.domain
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

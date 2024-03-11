@@ -26,6 +26,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.aqua_waterfliter.technicaltask.domain.entities.ProductsItem
+import com.aqua_waterfliter.technicaltask.presentation.componants.ProductDetailsSheet
+import com.aqua_waterfliter.technicaltask.presentation.componants.ProductsCard
+import com.aqua_waterfliter.technicaltask.presentation.domain.ProductsEvent
+import com.aqua_waterfliter.technicaltask.presentation.domain.ProductsViewModel
 import kotlinx.coroutines.launch
 
 

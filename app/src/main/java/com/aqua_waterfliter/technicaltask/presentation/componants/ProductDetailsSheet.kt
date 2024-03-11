@@ -1,4 +1,4 @@
-package com.aqua_waterfliter.technicaltask.presentation
+package com.aqua_waterfliter.technicaltask.presentation.componants
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box

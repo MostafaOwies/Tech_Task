@@ -1,4 +1,4 @@
-package com.aqua_waterfliter.technicaltask.presentation
+package com.aqua_waterfliter.technicaltask.presentation.domain
 
 sealed class ProductsEvent {
 
